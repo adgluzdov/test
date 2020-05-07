@@ -1,3 +1,3 @@
 ## Welcome to GitHub Pages
 
-Privacy-Policy.md [Privacy-Policy.md](https://adgluzdov.github.io/test/Terms-And-Conditions)  
+Privacy-Policy.md [Privacy-Policy.md]
